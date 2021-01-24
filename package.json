@@ -1,0 +1,22 @@
+{
+  "name": "lodown-anr625",
+  "version": "1.0.0",
+  "description": "My lodown project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANR625/lodown.git"
+  },
+  "author": "A. Nicole Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANR625/lodown/issues"
+  },
+  "homepage": "https://github.com/ANR625/lodown#readme"
+}
